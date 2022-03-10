@@ -1,1 +1,1 @@
-# TheOdinProject - HTML (Recipes)
+# TheOdinProject - HTML Project (Recipes)
